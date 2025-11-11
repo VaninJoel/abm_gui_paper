@@ -1,0 +1,15 @@
+[submodule "vCornea"]
+	path = vCornea
+	url = https://github.com/VaninJoel/vCornea.git
+[submodule "vivarium-vcornea"]
+	path = vivarium-vcornea
+	url = https://github.com/VaninJoel/vivarium-vcornea.git
+[submodule "vCornea-GUI"]
+	path = vCornea-GUI
+	url = https://github.com/VaninJoel/vCornea-GUI.git
+[submodule "vivarium-angio"]
+	path = vivarium-angio
+	url = https://github.com/VaninJoel/vivarium-angio.git
+[submodule "angiogenesis-gui"]
+	path = angiogenesis-gui
+	url = https://github.com/VaninJoel/angiogenesis-gui.git
